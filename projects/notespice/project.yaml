@@ -1,0 +1,3 @@
+repo: https://github.com/gh-lm/notespice
+primary_contact: oss-scanner@lightmorphic.com
+dockerfile: .oss-scanner/Dockerfile
